@@ -1,0 +1,54 @@
+Path 4.6.02: Matlab Link
+60 row/cols, 1660 non-zeros, 46.11% dense.
+
+Could not open options file: path.opt
+Using defaults.
+Path 4.6.02 (Thu Jul 18 07:24:01 2002)
+Written by Todd Munson, Steven Dirkse, and Michael Ferris
+
+
+INITIAL POINT STATISTICS
+Maximum of X. . . . . . . . . .  0.0000e+000 var: (x[    1])
+Maximum of F. . . . . . . . . .  1.0000e+001 eqn: (f[   41])
+Maximum of Grad F . . . . . . .  1.2000e+000 eqn: (f[   41])
+                                            var: (x[    1])
+
+INITIAL JACOBIAN NORM STATISTICS
+Maximum Row Norm. . . . . . . .  2.2000e+000 eqn: (f[   41])
+Minimum Row Norm. . . . . . . .  6.3257e-005 eqn: (f[   20])
+Maximum Column Norm . . . . . .  1.2003e+000 var: (x[    7])
+Minimum Column Norm . . . . . .  1.0000e+000 var: (x[   41])
+
+Crash Log
+major  func  diff  size  residual    step       prox   (label)
+    0     0             0.0000e+000             0.0e+000 (f[    1])
+
+Major Iteration Log
+major minor  func  grad  residual    step  type prox    inorm  (label)
+    0     0     1     1 0.0000e+000           I 0.0e+000 0.0e+000 (f[    1])
+
+FINAL STATISTICS
+Inf-Norm of Complementarity . .  0.0000e+000 eqn: (f[    1])
+Inf-Norm of Normal Map. . . . .  0.0000e+000 eqn: (f[    1])
+Inf-Norm of Minimum Map . . . .  0.0000e+000 eqn: (f[    1])
+Inf-Norm of Fischer Function. .  0.0000e+000 eqn: (f[    1])
+Inf-Norm of Grad Fischer Fcn. .  0.0000e+000 eqn: (f[    1])
+Two-Norm of Grad Fischer Fcn. .  0.0000e+000
+
+FINAL POINT STATISTICS
+Maximum of X. . . . . . . . . .  0.0000e+000 var: (x[    1])
+Maximum of F. . . . . . . . . .  1.0000e+001 eqn: (f[   41])
+Maximum of Grad F . . . . . . .  1.2000e+000 eqn: (f[   41])
+                                            var: (x[    1])
+
+ ** EXIT - solution found.
+
+Major Iterations. . . . 0
+Minor Iterations. . . . 0
+Restarts. . . . . . . . 0
+Crash Iterations. . . . 0
+Gradient Steps. . . . . 0
+Function Evaluations. . 1
+Gradient Evaluations. . 1
+Total Time. . . . . . . 0.000000
+Residual. . . . . . . . 0.000000e+000
